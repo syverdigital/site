@@ -1,0 +1,29 @@
+{
+  "main": [
+    
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Services",
+      "url": "/#Services"
+    },
+
+    {
+      "name": "Work",
+      "url": "/posts"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Terms & Conditions",
+      "url": "/terms-policy"
+    }
+  ]
+}
+

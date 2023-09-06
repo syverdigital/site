@@ -1,0 +1,59 @@
+{
+  "site": {
+    "title": "SYVER DIGITAL | Digital Services ",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": ""
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "https://formspree.io/f/xqkvbyyp",
+    "footer_content": "SYVER Digital is the result of a need and demand from today's market. We specialize in Design and Marketing for all company sizes.",
+    "copyright": "Designed & Developed By SYVER Digital"
+  },
+
+  "contact_info": {
+    "phone": "+305 537 6080",
+    "email": "hello@syver.digital",
+    "location": "Tampa, FL"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get In Touch",
+    "link": "/contact"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Andromeda-light Nextjs Blog Template"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get In Touch!",
+    "content": "Whether you have a question, need assistance, or want to explore potential collaborations, we're here to help.",
+    "button": {
+      "label": "Ready to get started?",
+      "link": "/contact"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
