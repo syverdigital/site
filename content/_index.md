@@ -23,7 +23,7 @@ brands:
 features:
   sub_title: Services
   title: What We Offer
-  description: We offer a world of creative possibilities to bring your vision to life. Our team of passionate designers, artists, and experts is dedicated to delivering stunning and innovative solutions tailored to your unique needs. Whether you're looking for captivating branding, captivating websites, engaging graphics, or awe-inspiring marketing materials, we've got you covered.
+  description: we offer a world of creative possibilities to bring your vision to life. <br/> Our team of passionate designers, artists, and experts is dedicated to delivering stunning and innovative solutions tailored to your unique needs.<br/> Whether you're looking for captivating branding, captivating websites, engaging graphics, or awe-inspiring marketing materials, we've got you covered.
   list:
     - icon: "trending-up" # feather icon: https://feathericons.com/
       title: Digital Marketing
