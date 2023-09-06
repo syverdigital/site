@@ -67,9 +67,9 @@ speciality:
 
 #Testimonial
 testimonial:
-  title: Transforming companies through design and innovation
+  title: Transforming companies <br/> through design and innovation
   subtitle: Don’t Take Our Word For It
-  description: Our cross-disciplinary team integrates branding, UX design, and technology to achieve swift and impactful results through direct leadership from the co-founders and close collaboration with our clients.
+  description: Our cross-disciplinary team integrates branding, UX design, and technology to achieve swift and <br/> impactful results through direct leadership from the co-founders and close collaboration with our clients.
   list:
     - author: David Cameron
       avatar: /images/user-img/01.jpg
