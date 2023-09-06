@@ -23,7 +23,7 @@ brands:
 features:
   sub_title: Services
   title: What We Offer
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: We offer a world of creative possibilities to bring your vision to life. Our team of passionate designers, artists, and experts is dedicated to delivering stunning and innovative solutions tailored to your unique needs. Whether you're looking for captivating branding, captivating websites, engaging graphics, or awe-inspiring marketing materials, we've got you covered.
   list:
     - icon: "trending-up" # feather icon: https://feathericons.com/
       title: Digital Marketing
